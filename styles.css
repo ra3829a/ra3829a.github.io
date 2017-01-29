@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color : lavender;
+}
+header {
+  font-family:'Leckerli One', cursive;
+}
+section {
+  font-family:'Leckerli One', cursive;
+  line-height: 80%;
+}
+  img {
+    height : 100px;
+    width: 100px;
+    margin: 10px 20px;
+  }
+li {
+  line-height: 400%;
+  font-family:'Leckerli One', cursive;
+  text-align: center;
+  width: 75%;
+  float: right;
+  border: 2px solid teal;
+  padding: 10px 20px;
+}
+#DC {
+  color: blue;
+  font-weight: 4000;
+  border: 2px solid white;
+}
+#Beaver{
+  color:palevioletred;
+}
+#animal{
+  color:palevioletred;
+}
